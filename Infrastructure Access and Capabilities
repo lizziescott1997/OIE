@@ -1,0 +1,36 @@
+Infrastructure Management - coordinate w/ JMOC for resource allocation
+
+Access and Capabilities
+Synergy of effort: Platform + access + capabilities = effects supporting warfighter
+
+Initial acces is the basis for all network exploitation; having established intial access the operator may emplace a capability that provides more robust accesses to the targeted
+system or that escalates the privilege of access to a higher level
+Access Methods
+Intrusion or Access Vectors
+
+Logical Access
+  Reconnaissance - active and passive
+  Active - positive interaction made
+  Passive - no direct interaction made
+
+Physical access
+  Human contact
+  Social engineering - can be physical and logical
+  Direct physical access (close access)
+
+Concealement
+Entrenchment - ensuring continued access to target and hiding any trace of the access; primary goal is to gain unsuspected, sustained, and unrestricted access to information system
+
+Cyberspace Capabilities
+Cyberspace attack capability (computer network attack cna)
+non-cyber-attack capability (computer network exploitation cne)
+
+Cyberspace attack
+D4M
+Deny, Degrade, Disrupt, Destroy, Manipulate to create physical effects
+
+Vulnerability - weakness in info system, system security procedures, intern control, or implementation that could be exploited by threat source
+Exploitation - enables operations and intel collection capabilities conducted through use of computer networks to gather data about target or adversary automated info systems or networks
+Threat source - intent and method targeted at intentional exploitation of vulnerability or situation and method that may accidentally exploit vulnerability; term traditionally called
+exploit in network security industry to label method or toll used
+
